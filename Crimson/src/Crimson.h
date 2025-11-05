@@ -1,9 +1,9 @@
 #pragma once
 
-// Fpr use by Crimson applications
+// For use by Crimson applications
 
-#include <stdio.h>
 #include "Crimson/Application.h"
+#include "Crimson/Log.h"
 
 // ENTRY POINT
 #include "Crimson/EntryPoint.h"
